@@ -34,3 +34,17 @@ source venv/bin/activate  # En Windows: venv\Scripts\activate
 
 # Instala dependencias
 pip install flask requests psutil
+
+```
+
+### 3. Ejecución de pruebas
+
+```bash
+# Dirigete al directorio de pruebas
+cd tests\test_carga_maxima.py
+
+# Corre la prueba con el siguiente comando:
+python -m tests.test_combinada
+
+# Veras en el directorio resultados los logs de la prueba, a partir de estos podemos hacer los reportes
+```
