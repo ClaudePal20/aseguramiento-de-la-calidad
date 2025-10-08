@@ -1,0 +1,11 @@
+2025-10-07 21:38:01,852 - INFO - Iniciando prueba de picos (Spike Test)
+2025-10-07 21:38:03,919 - INFO - Spike a 10 usuarios completado en 2.07s
+2025-10-07 21:38:03,920 - INFO - Solicitudes exitosas: 10, fallidas: 0
+2025-10-07 21:38:06,055 - INFO - Spike a 50 usuarios completado en 2.14s
+2025-10-07 21:38:06,055 - INFO - Solicitudes exitosas: 50, fallidas: 0
+2025-10-07 21:38:08,754 - INFO - Spike a 200 usuarios completado en 2.70s
+2025-10-07 21:38:08,754 - INFO - Solicitudes exitosas: 200, fallidas: 0
+2025-10-07 21:38:11,788 - INFO - Spike a 500 usuarios completado en 3.03s
+2025-10-07 21:38:11,788 - INFO - Solicitudes exitosas: 500, fallidas: 0
+2025-10-07 21:38:11,788 - INFO - Prueba de picos completada.
+

@@ -1,0 +1,14 @@
+2025-10-07 22:28:50,703 - INFO - Iniciando prueba de volumen: 10000 libros
+2025-10-07 23:11:13,151 - INFO - 1000 libros añadidos
+2025-10-07 23:53:35,670 - INFO - 2000 libros añadidos
+2025-10-08 00:35:57,827 - INFO - 3000 libros añadidos
+2025-10-08 01:18:20,310 - INFO - 4000 libros añadidos
+2025-10-08 02:00:43,030 - INFO - 5000 libros añadidos
+2025-10-08 02:43:05,467 - INFO - 6000 libros añadidos
+2025-10-08 03:25:28,085 - INFO - 7000 libros añadidos
+2025-10-08 04:07:50,416 - INFO - 8000 libros añadidos
+2025-10-08 04:50:12,949 - INFO - 9000 libros añadidos
+2025-10-08 05:32:34,769 - INFO - 10000 libros añadidos
+2025-10-08 05:32:36,843 - INFO - Tiempo de respuesta con 10000 libros: 2.07s | Status GET: 200
+2025-10-08 05:32:36,843 - INFO - Prueba de volumen completada.
+
